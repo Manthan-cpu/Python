@@ -22,8 +22,3 @@ This repository contains all the Python code and exercises I am learning as I ex
 - Using Git to track code versions.
 - Working with GitHub and Codespaces.
 
-## 📦 How to Use This Repo
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/python-learning.git
