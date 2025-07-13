@@ -105,4 +105,3 @@ if n % 2 == 0:
 else:
     median = sorted_list[n//2]
 print(median)  # 2.5 (median of the list)
-
