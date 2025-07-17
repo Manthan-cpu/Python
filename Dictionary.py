@@ -25,9 +25,6 @@ print(info["marks"],info["age"],info["name"])#[1, 12, 34, 43] 19 Manthan
 info["age"]=20
 print(info["age"])#20
 
-
-
-
 info["surname"]="gupta" 
 print(info)#{'key': 'value', 'name': 'Manthan', 'age': 20, 'marks': [1, 12, 34, 43], 'surname': 'gupta'}
 
